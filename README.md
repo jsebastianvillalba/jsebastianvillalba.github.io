@@ -3,7 +3,7 @@ I have 4 years of experience in Product Management in the construction and indus
 
 I am specializing in Artificial Intelligence at the University of Winnipeg, PACE. During this program, I have developed Data Analytics projects for Business Intelligence and Customer Analytics; and an 83% precision Machine Learning algorithm in Google Cloud Platforms for predicting the blood pressure of a person given their lifestyle metrics. 
 
-<a href="#" class="button">Post comment (link)</a>
+<a href="portfolio" class="button">Post comment (link)</a>
 <input class="button" type="submit" value="Post comment (input)">
 <button class="button" type="submit">Post comment (button)</button>
 
