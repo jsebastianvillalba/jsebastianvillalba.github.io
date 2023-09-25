@@ -21,6 +21,14 @@ The University of Winnipeg, PACE.
 Bachelor of Science - BSc Mechanical Engineering
 Universidad de los Andes.
 
+#[Exploratory Data Analysis - IOWA LIQUOR STORE](https://github.com/jsebastianvillalba/EDA/blob/main/EDA_project_JoseSebastian_Villalba.ipynb)
+
+Through this Jupyter Notebook file, I use some basic data exploration techniques to perform EDA over the Iowa Liquor Store public dataset. The aim of this project is to clean, normalize, and analyze the database and the relationship between features to understand how to use this data to further ML developments. In this project, I have also performed some Hypothesis Testing over some hypothetical assumptions.
+
+One of the coolest things that I learned by developing this project was to plot using Pyplotlib boxplot visualizations for categorical-quantitative relationships and scatter plots for quantitative feature relationships.
+
+![](/assets/img/IOWA2.png)
+
 # [SIMULATIONS - Elevator Traffic Analysis using Numpy Arrays](https://github.com/jsebastianvillalba/jsebastianvillalba.github.io/blob/main/Elevator_Traffic_Simulation_.ipynb)
 
 In this project, I have developed an elevator Montecarlo traffic simulation to calculate the average waiting time for an elevator in an office building using the probability distributions of population per floor and chances of having a determinate number of passengers in an elevator. The algorithm iterates ten thousand times to cover a wide range of possibilities and then calculates the estimated "Round Trip Time" of the elevator in seconds:
