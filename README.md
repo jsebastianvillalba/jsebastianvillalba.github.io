@@ -1,12 +1,11 @@
 # [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
 
 
+
+<pre>
 [![](assets/img/linkedin.com)](https://www.linkedin.com/in/josesvillalba/)
 <img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="100" height="100">
-<pre>
 
-<input class="button" type="submit" value="LinkedIn" href="https://www.linkedin.com/in/josesvillalba/">
-<button class="button" type="submit">Portfolio</button>
 </pre>
 
 I have 4 years of experience in Product Management in the construction and industrial sectors. I help companies to develop product strategies and business through Data Analytics and Artificial Intelligence.
