@@ -1,12 +1,13 @@
 # [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
 
-<pre>
+<div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/josesvillalba/">
-  <img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="50" height="50">
+    <img src="assets/img/linkedin.png" alt="LinkedIn" width="50" height="50">
+  </a>
   <a href="https://github.com/jsebastianvillalba">
-  <img src="assets/img/github.png" alt="Your Image Alt Text" width="50" height="50">
-</a>
-</pre>
+    <img src="assets/img/github.png" alt="GitHub" width="50" height="50">
+  </a>
+</div>
 
 
 I have 4 years of experience in Product Management in the construction and industrial sectors. I help companies to develop product strategies and business through Data Analytics and Artificial Intelligence.
