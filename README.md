@@ -25,7 +25,7 @@ Universidad de los Andes.
 
 In this project, I have developed an elevator Montecarlo traffic simulation to calculate the average waiting time for an elevator in an office building using the probability distributions of population per floor and chances of having a determinate number of passengers in an elevator. The algorithm iterates ten thousand times to cover a wide range of possibilities and then calculates the estimated "Round Trip Time" of the elevator in seconds:
 
-[frequency of RTT in seconds ](https://github.com/jsebastianvillalba/jsebastianvillalba.github.io/blob/main/assets/img/RTT.png)
+![Frequency of Round Trip Time](https://github.com/jsebastianvillalba/jsebastianvillalba.github.io/blob/main/assets/img/RTTdist.png)
 
 
 
