@@ -1,7 +1,8 @@
 # [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
 
 
-<img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="10" height="10" href="https://www.linkedin.com/in/josesvillalba/">
+[![]()](https://www.linkedin.com/in/josesvillalba/)
+<img src="assets/img/liinkedin.png" alt="Your Image Alt Text" width="100" height="100">
 <pre>
 
 <input class="button" type="submit" value="LinkedIn" href="https://www.linkedin.com/in/josesvillalba/">
