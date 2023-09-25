@@ -2,7 +2,9 @@
 
 <pre>
   <a href="https://www.linkedin.com/in/josesvillalba/">
-  <img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="100" height="100">
+  <img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="50" height="50">
+  <a href="https://github.com/jsebastianvillalba">
+  <img src="assets/img/github.png" alt="Your Image Alt Text" width="50" height="50">
 </a>
 </pre>
 
