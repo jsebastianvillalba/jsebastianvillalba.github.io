@@ -1,8 +1,9 @@
 # [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
 
-[![](assets/img/linkedin.com)](https://www.linkedin.com/in/josesvillalba/)
 <pre>
+  <a href="https://www.linkedin.com/in/josesvillalba/">
   <img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="100" height="100">
+</a>
 </pre>
 
 
