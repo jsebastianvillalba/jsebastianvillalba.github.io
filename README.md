@@ -1,7 +1,10 @@
-# jsebastianvillalba.github.io
-#
+# [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
+
+<pre>
 <input class="button" type="submit" value="LinkedIn">
 <button class="button" type="submit">Portfolio</button>
+</pre>
+
 I have 4 years of experience in Product Management in the construction and industrial sectors. I help companies to develop product strategies and business through Data Analytics and Artificial Intelligence.
 
 I am specializing in Artificial Intelligence at the University of Winnipeg, PACE. During this program, I have developed Data Analytics projects for Business Intelligence and Customer Analytics; and an 83% precision Machine Learning algorithm in Google Cloud Platforms for predicting the blood pressure of a person given their lifestyle metrics. 
@@ -17,4 +20,13 @@ The University of Winnipeg, PACE.
 
 Bachelor of Science - BSc Mechanical Engineering
 Universidad de los Andes.
-u
+
+# [SIMULATIONS - Elevator Traffic Analysis using Numpy Arrays](https://github.com/jsebastianvillalba/jsebastianvillalba.github.io/blob/main/Elevator_Traffic_Simulation_.ipynb)
+
+In this project, I have developed an elevator Montecarlo traffic simulation to calculate the average waiting time for an elevator in an office building using the probability distributions of population per floor and chances of having a determinate number of passengers in an elevator. The algorithm iterates ten thousand times to cover a wide range of possibilities and then calculate the estimated "Round Trip Time" of the elevator in seconds:
+
+[](https://github.com/jsebastianvillalba/jsebastianvillalba.github.io/blob/main/assets/img/RTT.png)
+[](https://github.com/jsebastianvillalba/jsebastianvillalba.github.io/blob/main/assets/img/RTTdist.png)
+
+
+
