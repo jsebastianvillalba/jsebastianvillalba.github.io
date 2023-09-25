@@ -1,6 +1,7 @@
 # [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
 
 <pre>
+[![](assets/img/linkedin.png)](https://www.linkedin.com/in/josesvillalba/)
 <input class="button" type="submit" value="LinkedIn" href="https://www.linkedin.com/in/josesvillalba/">
 <button class="button" type="submit">Portfolio</button>
 </pre>
