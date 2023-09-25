@@ -1,11 +1,9 @@
 # [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
 
-
-
-
 [![](assets/img/linkedin.com)](https://www.linkedin.com/in/josesvillalba/)
-<img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="100" height="100">
-
+<pre>
+  <img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="100" height="100">
+</pre>
 
 
 I have 4 years of experience in Product Management in the construction and industrial sectors. I help companies to develop product strategies and business through Data Analytics and Artificial Intelligence.
