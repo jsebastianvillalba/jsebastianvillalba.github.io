@@ -1,8 +1,9 @@
-author:
-  title : Jose Sebastian Villalba
-  logo: /assets/img/LDP2.png
-  location: "Winnipeg,MC - Canada"
-  description: Machine Learning Engineer and Product Manager
-  linkedin: "josesvillalba"
-  theme: jekyll-theme-minimal
+
+title : Jose Sebastian Villalba
+logo: /assets/img/LDP2.png
+location: "Winnipeg,MC - Canada"
+description: Machine Learning Engineer and Product Manager
+linkedin: "josesvillalba"
+twitter : "Hombre_Lunarejo"
+theme: jekyll-theme-minimal
 
