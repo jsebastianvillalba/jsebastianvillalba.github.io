@@ -1,6 +1,6 @@
 # [Jose Sebastian Villalba](https://www.linkedin.com/in/josesvillalba/)
 
-[![Your Image Alt Text](assets/img/linkedin.png)](https://www.linkedin.com/in/josesvillalba/)<img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="10" height="10">
+[![Your Image Alt Text]()](https://www.linkedin.com/in/josesvillalba/)<img src="assets/img/linkedin.png" alt="Your Image Alt Text" width="10" height="10">
 <pre>
 
 <input class="button" type="submit" value="LinkedIn" href="https://www.linkedin.com/in/josesvillalba/">
