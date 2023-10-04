@@ -22,6 +22,12 @@ One of the coolest things that I learned by developing this project was to plot 
 
 ![](/assets/img/IOWA2.png)
 
+# [Classifying benign and malign cancer using SVM, Logistic, and KNN Regression models](https://github.com/jsebastianvillalba/classification/blob/main/Lab3_JoseSVillalba_AIML.ipynb)
+
+In this Jupyter Notebook, I manage the Breast Cancer Wisconsin dataset available at https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic and create three different Machine Learning Regression Models: Support Vector Machine, Logistic, and k Nearest Neighbors. The goal of this project is to analyze the effect of the Forward Sequential Feature Selector dimension reduction on the performance of each algorithm. During this project, I implemented SVM Hyperparameter tuning technique and the Standard Scaling algorithm for KNN. Besides, I visualized the confusion matrix using pyplot library from Matplotlib.
+
+![](/assets/img/confmatr.png)
+
 # [SIMULATIONS - Elevator Traffic Analysis using Numpy Arrays](https://github.com/jsebastianvillalba/jsebastianvillalba.github.io/blob/main/Elevator_Traffic_Simulation_.ipynb)
 
 In this project, I have developed an elevator Montecarlo traffic simulation to calculate the average waiting time for an elevator in an office building using the probability distributions of population per floor and chances of having a determinate number of passengers in an elevator. The algorithm iterates ten thousand times to cover a wide range of possibilities and then calculates the estimated "Round Trip Time" of the elevator in seconds:
