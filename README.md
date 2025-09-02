@@ -47,6 +47,8 @@ In this project, I trained a CNN with LSTM using embeddings to train an essay cl
 # [Regression- Hyperparameter Tuning Visualization via Contour Plots](linear_reg.ipynb)
 
 This is a project that I adore so much, as I developed a code to visually understand how hyperparameter tuning (selecting the optimal B parameters) minimizes the MSE. 
+
+
 ![](assets/img/Contour_plots.jpg)
 
 # [WHO AM I?](https://www.linkedin.com/in/josesvillalba/)
