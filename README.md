@@ -38,6 +38,10 @@ This simulation expands the simple Elevator Traffic Analysis based on a probabil
 
 ![](/assets/img/RTTdist.png)
 
+#[Essay vs Student Generated Essay? Using LSTM for a Deep Learning Classification Problem](LSTM_Essay_Classification.ipynb)
+
+![](assets/img/LSTM.jpg)
+
 # [WHO AM I?](https://www.linkedin.com/in/josesvillalba/)
 I have 4 years of experience in Product Management in the construction and industrial sectors. I help companies to develop product strategies and business through Data Analytics and Artificial Intelligence.
 
