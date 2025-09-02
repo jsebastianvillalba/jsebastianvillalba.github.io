@@ -44,6 +44,11 @@ In this project, I trained a CNN with LSTM using embeddings to train an essay cl
 
 ![](assets/img/LSTM.jpg)
 
+# [Regression- Hyperparameter Tuning Visualization via Contour Plots](0_linear_regression (1).ipynb)
+
+This is a project that I adore so much, as I developed a code to visually understand how hyperparameter tuning (selecting the optimal B parameters) minimizes the MSE. 
+![](assets/img/Contour plots.jpg)
+
 # [WHO AM I?](https://www.linkedin.com/in/josesvillalba/)
 I have 4 years of experience in Product Management in the construction and industrial sectors. I help companies to develop product strategies and business through Data Analytics and Artificial Intelligence.
 
@@ -55,8 +60,8 @@ During my work experience, I have had the opportunity of being a change leader. 
 
 ## EDUCATION 
 
-1y - Posdegree diploma. Artificial Intelligence
-The University of Winnipeg, PACE.
+1y - Post-degree diploma. Artificial Intelligence
+The University of Winnipeg
 
 Bachelor of Science - BSc Mechanical Engineering
 Universidad de los Andes.
