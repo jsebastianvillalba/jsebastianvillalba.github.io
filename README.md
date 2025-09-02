@@ -38,7 +38,9 @@ This simulation expands the simple Elevator Traffic Analysis based on a probabil
 
 ![](/assets/img/RTTdist.png)
 
-#[Essay vs Student Generated Essay? Using LSTM for a Deep Learning Classification Problem](LSTM_Essay_Classification.ipynb)
+# [Essay vs Student-Generated Essay? Using LSTM for a Deep Learning Classification Problem](LSTM_Essay_Classification.ipynb)
+
+In this project, I trained a CNN with LSTM using embeddings to train an essay classification model that accurately checks the probability that an essay was written using AI. This was my big first project using LLM. 
 
 ![](assets/img/LSTM.jpg)
 
