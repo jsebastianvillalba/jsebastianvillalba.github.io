@@ -38,13 +38,13 @@ This simulation expands the simple Elevator Traffic Analysis based on a probabil
 
 ![](/assets/img/RTTdist.png)
 
-# [Essay vs Student-Generated Essay? Using LSTM for a Deep Learning Classification Problem](LSTM_Essay_Classification.ipynb)
+# [Essay vs Student-Generated Essay? Using LSTM for a Deep Learning Classification Problem](https://github.com/jsebastianvillalba/classification/blob/main/LSTM_Essay_Classification.ipynb)
 
 In this project, I trained a CNN with LSTM using embeddings to train an essay classification model that accurately checks the probability that an essay was written using AI. This was my big first project using LLM. 
 
 ![](assets/img/LSTM.jpg)
 
-# [Regression- Hyperparameter Tuning Visualization via Contour Plots](linear_reg.ipynb)
+# [Regression- Hyperparameter Tuning Visualization via Contour Plots](https://github.com/jsebastianvillalba/lr_and_regularization/blob/main/linear_reg.ipynb)
 
 This is a project that I adore so much, as I developed a code to visually understand how hyperparameter tuning (selecting the optimal B parameters) minimizes the MSE. 
 
